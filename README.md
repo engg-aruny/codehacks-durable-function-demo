@@ -57,7 +57,7 @@ Next, the durable function will create a record of the order in the **website's 
 
 Finally, the durable function will trigger additional functions to handle tasks like **inventory management, payment processing, and shipping fulfillment**. Throughout this process, the durable function will persist its state and allow for graceful handling of errors and retries, ensuring that the order is processed successfully and efficiently.
 
-![Real-life example](https://www.dropbox.com/s/b1cpnlj5b9ppf4s/Cover_image_Durablefunctions.jpg?raw=1 "Real-life example")
+![Real-life example](https://www.dropbox.com/s/a6dwbpyyfcigint/Cover_image_Durablefunctions_v1.jpg?raw=1 "Real-life example")
 
 #### Implementation
 
